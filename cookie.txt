@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.douban.com	TRUE	/	FALSE	1571979604	bid	48Or8z6II0w
+.douban.com	TRUE	/	FALSE	1571979604	ll	"108306"
